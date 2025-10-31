@@ -1,2 +1,0 @@
-P102|Wireless Mouse|17|5
-P101|Laptop|4|5
